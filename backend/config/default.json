@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://maryamnticha:3TBJN6bp6jHHVr4g@cluster0-bs9yn.mongodb.net/test",
+  "secretOrKey": "myLittleSecret"
+}
